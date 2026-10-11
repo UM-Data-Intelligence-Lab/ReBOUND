@@ -1,0 +1,102 @@
+{
+  "validation": {
+    "prediction_dates": {
+      "shape": [
+        23
+      ],
+      "dtype": "<i8",
+      "sha256": "5467df923276c72a98f4b39e0ad26460f060b4204bfb1ad307644c2122078a91"
+    },
+    "active_nodes": {
+      "shape": [
+        902
+      ],
+      "dtype": "<i8",
+      "sha256": "3000c28e7b380f543991be497904402ed09bfff3f704b4f31c3a33afbc86b177"
+    },
+    "edges": {
+      "shape": [
+        524
+      ],
+      "dtype": "<i8",
+      "sha256": "522fd6d4b6309b661189ac59bfde138bd1a15fdd8eb0cb688f444f75c0dd70a4"
+    },
+    "candidate_diag": {
+      "shape": [
+        23,
+        902
+      ],
+      "dtype": "<f8",
+      "sha256": "4d695cfb5f31480b55c45d93b38252cb9c3208a93c7f6b13b62f96615b80c13b"
+    },
+    "candidate_off": {
+      "shape": [
+        23,
+        524
+      ],
+      "dtype": "<f8",
+      "sha256": "38f78d4e58bb255da0dcce2dcf555e2e29bbb26115f710ab4b9950bfb6c360ba"
+    }
+  },
+  "prediction": {
+    "prediction_dates": {
+      "shape": [
+        86
+      ],
+      "dtype": "<i8",
+      "sha256": "e18018ffb40e6a5677a5741b4c93f604d589f3a90616c60f05742dce5f054479"
+    },
+    "active_nodes": {
+      "shape": [
+        902
+      ],
+      "dtype": "<i8",
+      "sha256": "3000c28e7b380f543991be497904402ed09bfff3f704b4f31c3a33afbc86b177"
+    },
+    "edges": {
+      "shape": [
+        524
+      ],
+      "dtype": "<i8",
+      "sha256": "522fd6d4b6309b661189ac59bfde138bd1a15fdd8eb0cb688f444f75c0dd70a4"
+    },
+    "candidate_diag": {
+      "shape": [
+        86,
+        902
+      ],
+      "dtype": "<f8",
+      "sha256": "2065586f5f2cef31f2b48ae098673bea2da28d667ed6f44a0275c37f4c4b1185"
+    },
+    "candidate_off": {
+      "shape": [
+        86,
+        524
+      ],
+      "dtype": "<f8",
+      "sha256": "46f9f4f42cfcdf88ab36ae35a5ebcc3db51e477ccac61a8fa77bb6db8bab460f"
+    }
+  },
+  "metrics": {
+    "Val23": {
+      "diag": 0.08205358102240974,
+      "offdiag": 0.303133219054417,
+      "combined": 0.19259340003841335
+    },
+    "January9": {
+      "diag": 0.08373402648056137,
+      "offdiag": 0.30142411977007444,
+      "combined": 0.1925790731253179
+    },
+    "April14": {
+      "diag": 0.08097329465645514,
+      "offdiag": 0.3042319257372087,
+      "combined": 0.19260261019683192
+    }
+  },
+  "submission_sha256": "98252a6d03b71c7b019d44b150a9fca6ce7adbd9292e1bdc54b0f36c76540614",
+  "target_days": 58,
+  "values": 82708,
+  "source": "ReBOUND / HuMob 2026 submission",
+  "evaluation_scope": "Adaptive Val23; not an independent test or the paper Table 1 HoldTest12"
+}

@@ -1,0 +1,174 @@
+{
+  "format_version": 1,
+  "source": "ReBOUND / HuMob 2026 submission",
+  "files": {
+    "Data/calendar.npz": {
+      "bytes": 98711,
+      "sha256": "66272ef92952559559a38174a3daef2c8b1d9c98bd3c1096d64276a59522f19e"
+    },
+    "Data/observations.npz": {
+      "bytes": 53410,
+      "sha256": "8027f27ae402b657d3132fdb4d06d6cac8b361b792b1423e501664d7e4f709a9"
+    },
+    "Pretrained/experts/diagonal.npz": {
+      "bytes": 560117,
+      "sha256": "88dfd9770f87b7c9cee1ab1d28ef622a130ad41bbdce5e6a64d529837e1f94f3"
+    },
+    "Pretrained/experts/grouped.npz": {
+      "bytes": 668821,
+      "sha256": "bcd1fc46c621a2f442335427c650b68bf4c083be4ae1678c5a934d9e047580b2"
+    },
+    "Pretrained/experts/off_diagonal.npz": {
+      "bytes": 772006,
+      "sha256": "e658a807371f33be6358d7729c8f28942611de7aecbfc657f62803ad20a3cb5d"
+    },
+    "Pretrained/experts/residual_features.npz": {
+      "bytes": 552605,
+      "sha256": "a8142ed75fad45569aff8fe527c4eaf8b53dbaacd297f19584cd0769f993f400"
+    },
+    "Pretrained/experts/spatial.npz": {
+      "bytes": 14070580,
+      "sha256": "2185987d72efbc94afd8b85712b2b9c24a784c822912a93a5ce4797db8654a2b"
+    },
+    "Pretrained/residual/basis.npz": {
+      "bytes": 118482,
+      "sha256": "6cf012830298aa880cccfaa62a852cfee709fe48b0ad708b8043751cb8d4542a"
+    },
+    "Pretrained/residual/recipe.json": {
+      "bytes": 1547,
+      "sha256": "1336fb8e8adf528124b6aba53d239ee68f792f88290615f3cb028646101f86c4"
+    },
+    "Pretrained/residual/scope_00.joblib": {
+      "bytes": 1972105,
+      "sha256": "1c42df2240991c0cf23712285e3fdbdfd5ba621eca7129cd9b8d10dac59fd17d"
+    },
+    "Pretrained/residual/scope_01.joblib": {
+      "bytes": 1969524,
+      "sha256": "02bb8dca2452df89c960967a469f19c8c242de52db04062d50b5af3914ee9156"
+    },
+    "Pretrained/residual/scope_02.joblib": {
+      "bytes": 1972268,
+      "sha256": "0f350440d917e315c9f17fbf8220ea394b00e333336a96806a84db524313fcb7"
+    },
+    "Pretrained/residual/scope_03.joblib": {
+      "bytes": 1968260,
+      "sha256": "4ddd03985420531414fa231ab0c6516215df74c117659f36cb1c42f9576fa9b9"
+    },
+    "Pretrained/residual/scope_04.joblib": {
+      "bytes": 1968138,
+      "sha256": "05b6838e6afb3b1dc8451d7917d841758f2cb0689283b4bee54bf1a95a735706"
+    },
+    "Pretrained/residual/scope_05.joblib": {
+      "bytes": 1969044,
+      "sha256": "bc0c9257a659494f8d7797bd944a22f3f642c1e2816280bc25a51bb8a94ee5f3"
+    },
+    "Pretrained/residual/scope_06.joblib": {
+      "bytes": 1974976,
+      "sha256": "7cef024e0e10f789d585282d186ff27369725a6ff914fa2585569ab116204431"
+    },
+    "Pretrained/residual/scope_07.joblib": {
+      "bytes": 1962631,
+      "sha256": "4b14b9b75ef16df5606eb463b4c1201eb50dc9a5c26779c34e7cc62d8345d371"
+    },
+    "Pretrained/residual/scope_08.joblib": {
+      "bytes": 1976857,
+      "sha256": "e6b33451c915b4c1a287dfa11eb410fc3c724b48a798b1baca446f2dc2df6626"
+    },
+    "Pretrained/residual/scope_09.joblib": {
+      "bytes": 1972515,
+      "sha256": "a9db99ba3d8f24eb77e30cb36e8ea2c8893815ec0bb4bbbbe47fbccf9af7eedf"
+    },
+    "Pretrained/residual/scope_10.joblib": {
+      "bytes": 1974547,
+      "sha256": "f98db7a5c0187df99328f86a6e34f93aac4ca42e4828696f30dc9abe092c6079"
+    },
+    "Pretrained/residual/scope_11.joblib": {
+      "bytes": 1971185,
+      "sha256": "8578687aa93563812d1e55c9566962c4fb5f734c391ea2441c3eb85e9a033148"
+    },
+    "Pretrained/residual/scope_12.joblib": {
+      "bytes": 1973726,
+      "sha256": "fe613a70b5658b751cb194d69f41ffc9e927b1860b9589ca0b690c37c787a4eb"
+    },
+    "Pretrained/residual/scope_13.joblib": {
+      "bytes": 1973612,
+      "sha256": "5efbfd9cf519c7737fd27cb1426d4a08b179f40cf6d2c468dffeb991543f9c1f"
+    },
+    "Pretrained/residual/scope_14.joblib": {
+      "bytes": 1970290,
+      "sha256": "e8a6b9369128bb1c145e768fc42651beb92ba0982eac355965e16d6ca96c6efc"
+    },
+    "Pretrained/residual/scope_15.joblib": {
+      "bytes": 1969307,
+      "sha256": "06f238d956ffb6042a23d1f21fbf3701a7301136670d5740b281f38fd820a83e"
+    },
+    "Pretrained/residual/scope_16.joblib": {
+      "bytes": 1965886,
+      "sha256": "0fb86b5e388019070a7a669b0441e0aadda3e7f955c3957e6f53a8ab2d4ce0c3"
+    },
+    "Pretrained/residual/scope_17.joblib": {
+      "bytes": 1975972,
+      "sha256": "38ad4eba87ff29d0a64aa01c66f4c264896d7469ced07d1f77bca04a1948737b"
+    },
+    "Pretrained/residual/scope_18.joblib": {
+      "bytes": 1974864,
+      "sha256": "3d81ce91a821f62e975fa4449187b948ee114cfc2fd8edb32a273553b764e599"
+    },
+    "Pretrained/residual/scope_19.joblib": {
+      "bytes": 1978062,
+      "sha256": "27d1e4a27b12fb6b8e9507f8db4746ebab5e51b1900db44bb6dbeab99f1e299b"
+    },
+    "Pretrained/residual/scope_20.joblib": {
+      "bytes": 1967087,
+      "sha256": "c4f452a890908123e2a37714f9ef349b23c6b107d0d74b7b1f8c1a47b571292d"
+    },
+    "Pretrained/residual/scope_21.joblib": {
+      "bytes": 1963824,
+      "sha256": "f80514dadf0009bbe8810d514ab6489e513ea6cb5f405fe8585eb56559b7f7dd"
+    },
+    "Pretrained/residual/scope_22.joblib": {
+      "bytes": 1973964,
+      "sha256": "6996500e6efeaaa0430f1fbf783d6b50990c8884b691dd5dd766f01375b47733"
+    },
+    "Pretrained/residual/scope_23.joblib": {
+      "bytes": 1972828,
+      "sha256": "0dd3491c38a4326cf5ff8752a7fb690d958b055d0dba1f3b4de47285620f0e29"
+    },
+    "Pretrained/residual/shared.joblib": {
+      "bytes": 342962,
+      "sha256": "181e0ab1eb0f0741944702708cf31994923aec461db8434aba58172d60b8115e"
+    },
+    "Pretrained/routing/diagonal.json": {
+      "bytes": 4292,
+      "sha256": "a876bc6afafa0a0f79dfe83d239b568aa553449cdfdd1d707872eb1a84ee1a6e"
+    },
+    "Pretrained/routing/diagonal.npz": {
+      "bytes": 319792,
+      "sha256": "6166b9336cbc1e523b2e9d6d408fb98b2036e30c283ab5838e07a96d96c165ea"
+    },
+    "Pretrained/routing/off_diagonal.json": {
+      "bytes": 21882,
+      "sha256": "9120f0a953e02b472471e1372f5d23a8bb22c3410c4ac0b73571c38f357f25f4"
+    },
+    "Pretrained/routing/off_diagonal.npz": {
+      "bytes": 189281,
+      "sha256": "f6fa63268949e755722e58b22ea68608dc4e299698b3ab752f1ce046af70bc22"
+    },
+    "Pretrained/routing/spatial.json": {
+      "bytes": 4530,
+      "sha256": "a172978222c630e5b91cb1423d889d999781c832befe6548d1354f2a265392fa"
+    },
+    "ReBOUND/config/expected.json": {
+      "bytes": 2507,
+      "sha256": "b716f2af7eee435a33081ceefda4eb6ccb183226bce511cda56e0aa58eee149e"
+    },
+    "ReBOUND/config/protocol.json": {
+      "bytes": 4197,
+      "sha256": "de139a9398762aaf74b26d247a80f1b0502754d1aaf2f94e0a9b15612b3316ec"
+    },
+    "ReBOUND/config/rebound.json": {
+      "bytes": 401,
+      "sha256": "4f204eae0044a97d498012b6bcfb4d5572637b6bca0caf1feb801b69c2996ac6"
+    }
+  }
+}

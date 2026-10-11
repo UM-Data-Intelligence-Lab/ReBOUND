@@ -1,0 +1,112 @@
+{
+  "seeds": [
+    20260916,
+    20260917,
+    20260918,
+    20260919,
+    20260920,
+    20260921
+  ],
+  "groups": {
+    "middle": {
+      "longest_segment": "right",
+      "arm": "endpoint_positive_amount",
+      "training": {
+        "tweedie": {
+          "steps": 1200,
+          "effective_batch": 16384,
+          "hidden": [
+            128,
+            128
+          ],
+          "edge_embedding": 16,
+          "learning_rate": 0.0003,
+          "weight_decay": 0.001,
+          "checkpoints": [
+            100,
+            300,
+            600,
+            1200
+          ],
+          "context_channels": 30
+        }
+      }
+    },
+    "rare": {
+      "longest_segment": "left",
+      "arm": "context_free",
+      "training": {
+        "mse": {
+          "steps": 1200,
+          "effective_batch": 16384,
+          "hidden": [
+            128,
+            128
+          ],
+          "edge_embedding": 16,
+          "learning_rate": 0.0003,
+          "weight_decay": 0.001,
+          "checkpoints": [
+            100,
+            300,
+            600,
+            1200
+          ],
+          "context_channels": 30
+        }
+      }
+    },
+    "top": {
+      "longest_segment": "right",
+      "position_segment": "right",
+      "position_threshold": 15,
+      "arm": "context_free",
+      "training": {
+        "mse": {
+          "steps": 3600,
+          "effective_batch": 16384,
+          "hidden": [
+            128,
+            128
+          ],
+          "edge_embedding": 16,
+          "learning_rate": 0.0003,
+          "weight_decay": 0.001,
+          "checkpoints": [
+            100,
+            300,
+            600,
+            1200,
+            1800,
+            2400,
+            3600
+          ],
+          "context_channels": 30,
+          "edge_count": 50
+        },
+        "tweedie": {
+          "steps": 3600,
+          "effective_batch": 16384,
+          "hidden": [
+            128,
+            128
+          ],
+          "edge_embedding": 16,
+          "learning_rate": 0.0003,
+          "weight_decay": 0.001,
+          "checkpoints": [
+            100,
+            300,
+            600,
+            1200,
+            1800,
+            2400,
+            3600
+          ],
+          "context_channels": 30,
+          "edge_count": 50
+        }
+      }
+    }
+  }
+}

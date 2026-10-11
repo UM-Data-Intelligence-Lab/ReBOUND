@@ -1,0 +1,14 @@
+{
+  "framework": "ReBOUND",
+  "protocol": "Train269_Val23",
+  "inference": "frozen_experts_and_fitted_residual_models",
+  "data_directory": "Data",
+  "pretrained_directory": "Pretrained",
+  "output_directory": "../ReBOUND_runs/reproduction",
+  "memory_gib": 3,
+  "modules": [
+    "Disaster-Aware Experts Construction",
+    "Boundary-Anchored Expert Routing",
+    "Progressive Residual Learning"
+  ]
+}

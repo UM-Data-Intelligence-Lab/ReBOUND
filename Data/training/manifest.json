@@ -1,0 +1,309 @@
+{
+  "format_version": 1,
+  "files": {
+    "Data/training/experts/source_a/grouped_middle.npz": {
+      "bytes": 2447733,
+      "sha256": "ade9d0058781fd590ee3a9bedbff1ace56a663f0464d2f72e5e7d13c7e2917b8"
+    },
+    "Data/training/experts/source_a/grouped_rare.npz": {
+      "bytes": 833429,
+      "sha256": "ea039916540bebfb8a29ae172bd2ccd29257b86d949db3237dde9259f50ed0ca"
+    },
+    "Data/training/experts/source_a/grouped_top.npz": {
+      "bytes": 1589213,
+      "sha256": "ffafd13cc933c8d53f93777405d43d9c2e6abe5f81554ad86936cc1e29a34072"
+    },
+    "Data/training/experts/source_a/periodicity.npz": {
+      "bytes": 385599,
+      "sha256": "3bbcff6beb521e31bf4b587176708112926814fc4d04152fe856af7e14efee52"
+    },
+    "Data/training/experts/source_b/grouped_middle.npz": {
+      "bytes": 2411378,
+      "sha256": "08fecafce66a3255ecfbe26fbdf4027fd4e9540b6630be5455bd1402da1851e7"
+    },
+    "Data/training/experts/source_b/grouped_rare.npz": {
+      "bytes": 886359,
+      "sha256": "7d7540425e3d55b6781bf376846f9a0082c4aed07b60a79ec4767113f682a326"
+    },
+    "Data/training/experts/source_b/grouped_top.npz": {
+      "bytes": 1489524,
+      "sha256": "20b93fec1078adff53936cc1bb07fa4be62ba0c5f15aa8f70a6d885c60984058"
+    },
+    "Data/training/experts/source_b/periodicity.npz": {
+      "bytes": 390877,
+      "sha256": "0c75655c176bd19f79f25472434a642f9761db8ab4d9d3a262c1c5af2e095dd0"
+    },
+    "Data/training/experts/source_c/grouped_middle.npz": {
+      "bytes": 2637943,
+      "sha256": "117d7fda853b909597e5e85ba111bcdddb7730ff789fd522008fb241f63d6f86"
+    },
+    "Data/training/experts/source_c/grouped_rare.npz": {
+      "bytes": 859757,
+      "sha256": "7a122755cfa5bbc799539f8780c03dc0f769464016a3684ca638e1dc5fe216a2"
+    },
+    "Data/training/experts/source_c/grouped_top.npz": {
+      "bytes": 1731667,
+      "sha256": "3f39ea3a9074ced31da9f2686dc8c9c3755caa98167636788cb84241213ed9bd"
+    },
+    "Data/training/experts/source_c/periodicity.npz": {
+      "bytes": 383854,
+      "sha256": "c88308c3a3847460bd22a84602b83c9df736329220d44908267e112f30433319"
+    },
+    "Data/training/experts/target/grouped_middle.npz": {
+      "bytes": 5464082,
+      "sha256": "1d8a66003cbdab16386a50d5befe1912b01a02649b687ed3b5943f0befdf0e41"
+    },
+    "Data/training/experts/target/grouped_rare.npz": {
+      "bytes": 1908603,
+      "sha256": "9820d9854986767cd1dabd08393c9c2f7e8fb4a79939a2b1b3f3e38521f83875"
+    },
+    "Data/training/experts/target/grouped_top.npz": {
+      "bytes": 3349846,
+      "sha256": "ec4f0c758a7911f8b5e811450cdd835df76913707323548f604c414575338851"
+    },
+    "Data/training/experts/target/periodicity.npz": {
+      "bytes": 532276,
+      "sha256": "2ba0891d61070bf5debf76abea0af51a1705af03e0c301f222bf318761a86d75"
+    },
+    "Data/training/residual/metadata.npz": {
+      "bytes": 33109,
+      "sha256": "8287e9c37d6dcb78c65f4dc60e7fda045da6caf1ae25dd93852172be252f45ed"
+    },
+    "Data/training/residual/modes.npz": {
+      "bytes": 276439,
+      "sha256": "c8738b3fe54eff3cddcddd87fea1ad4273d62d9bc46bc3608edf3d75fc68d321"
+    },
+    "Data/training/residual/parameters.json": {
+      "bytes": 5177,
+      "sha256": "b9996fc0e67a9a672c2386a3959acb92fb00b79052c7d11df381fa7516e56314"
+    },
+    "Data/training/residual/scope_00/residual_ensemble.npz": {
+      "bytes": 1375521,
+      "sha256": "326bd9b505f46e67a59b35b32bb203bddef44d2dc4e8c8935b4c867220b4f992"
+    },
+    "Data/training/residual/scope_00/temporal_ensemble.npz": {
+      "bytes": 1371789,
+      "sha256": "14825e0a9d54f60c84e880b5a7230f22f65f76626104f8f7174c0038e2c31f1c"
+    },
+    "Data/training/residual/scope_01/residual_ensemble.npz": {
+      "bytes": 1374821,
+      "sha256": "f0702f4d83b53ecafdc7d8bd39b84509b490a08b39461d3b3168b3ed337c1278"
+    },
+    "Data/training/residual/scope_01/temporal_ensemble.npz": {
+      "bytes": 1372026,
+      "sha256": "c3d28002fb6e139a3413d6e28babf65dab8a6158d4c7932d40bac511807da03b"
+    },
+    "Data/training/residual/scope_02/residual_ensemble.npz": {
+      "bytes": 1375659,
+      "sha256": "16f6ed0c821dbfc1babe07475cf9dbe2b4f685a61683963f7e1cd0288de5cdc2"
+    },
+    "Data/training/residual/scope_02/temporal_ensemble.npz": {
+      "bytes": 1372614,
+      "sha256": "1ee5036c8ba07f563de0070780c327a8e0efdd37c79c57668c138eee1ee4e709"
+    },
+    "Data/training/residual/scope_03/residual_ensemble.npz": {
+      "bytes": 1374511,
+      "sha256": "53e8cb8fa15c52ef3f9e0723d99e7b048d4aa0056b0459dfb3e23366d273dec1"
+    },
+    "Data/training/residual/scope_03/temporal_ensemble.npz": {
+      "bytes": 1370077,
+      "sha256": "9915e8322d5188ac4301118e8f3b9df5cb46f222275090620e661f3fec31ce13"
+    },
+    "Data/training/residual/scope_04/residual_ensemble.npz": {
+      "bytes": 1375380,
+      "sha256": "7edd6e233580955a2c463977b75db9ef6189a23f84639b1c84d1c0c1729714e2"
+    },
+    "Data/training/residual/scope_04/temporal_ensemble.npz": {
+      "bytes": 1371410,
+      "sha256": "7e8f959cb3399f914d9cca8bd21b40f34595ede6d191d5f541407da91502b43a"
+    },
+    "Data/training/residual/scope_05/residual_ensemble.npz": {
+      "bytes": 1374975,
+      "sha256": "bdef60b1e4e6adc5e793426b2932a68d7f5e4550015dc5052165739c886ffda2"
+    },
+    "Data/training/residual/scope_05/temporal_ensemble.npz": {
+      "bytes": 1372707,
+      "sha256": "443fe2dc8b86738ddc618d16955c0df3627b675cfb1590ac91d343f0be58231f"
+    },
+    "Data/training/residual/scope_06/residual_ensemble.npz": {
+      "bytes": 1374994,
+      "sha256": "1346e4f27f45214b1d32e5400c1831cd156f22a0740150c56c1595a53865d4d9"
+    },
+    "Data/training/residual/scope_06/temporal_ensemble.npz": {
+      "bytes": 1372467,
+      "sha256": "46842be7919f809fc40d48860fc7aa60ae07897e03845296aa5229c1f1b0ad47"
+    },
+    "Data/training/residual/scope_07/residual_ensemble.npz": {
+      "bytes": 1374791,
+      "sha256": "1cccda620d5c9343dd0859bacd79b08d310526cce679ddb735e677fe49f902e8"
+    },
+    "Data/training/residual/scope_07/temporal_ensemble.npz": {
+      "bytes": 1368765,
+      "sha256": "4adc58d7154a1dd6b401cd28d958211ef9db306fea04ed829931a0f1d43b8699"
+    },
+    "Data/training/residual/scope_08/residual_ensemble.npz": {
+      "bytes": 1374688,
+      "sha256": "a81c1e4440d7cd2ea846b2658605471e032096f509bac30ab30ab5961e905f7b"
+    },
+    "Data/training/residual/scope_08/temporal_ensemble.npz": {
+      "bytes": 1371775,
+      "sha256": "06cf0eb9cface3d36639ea3381b49c019fafe0d5f7cf77fcd85a5ca29e935b1a"
+    },
+    "Data/training/residual/scope_09/residual_ensemble.npz": {
+      "bytes": 1375360,
+      "sha256": "32610c92926d383855ccd8b1f6203b4bece575d13e94bd75219c9148bb64c082"
+    },
+    "Data/training/residual/scope_09/temporal_ensemble.npz": {
+      "bytes": 1371231,
+      "sha256": "5ba317180dc4b03355f93c9f43ab128618e2c564fbeec7265bdacae18d72bba1"
+    },
+    "Data/training/residual/scope_10/residual_ensemble.npz": {
+      "bytes": 1374861,
+      "sha256": "6a56c3facaf2f807f85049dccf17656a53e9644d798671215754575beb306e4c"
+    },
+    "Data/training/residual/scope_10/temporal_ensemble.npz": {
+      "bytes": 1371608,
+      "sha256": "ed3c4477f8843aeed71a14b4775e47da880c5e1821a60a8d110223b6698a2805"
+    },
+    "Data/training/residual/scope_11/residual_ensemble.npz": {
+      "bytes": 1374253,
+      "sha256": "79d5186e7df73aebd86fef8e8fef62a0cc3b71698b18c281b43879d799fb4433"
+    },
+    "Data/training/residual/scope_11/temporal_ensemble.npz": {
+      "bytes": 1371507,
+      "sha256": "7e59b530d7b43c46296a17739d88ffbc4f8fe6565ff0e33f532e64ec26571284"
+    },
+    "Data/training/residual/scope_12/residual_ensemble.npz": {
+      "bytes": 1375500,
+      "sha256": "3aaef27b6fcb9673befd5624f8fc7d53c44519ce8ec212ed3f78839f8351057c"
+    },
+    "Data/training/residual/scope_12/temporal_ensemble.npz": {
+      "bytes": 1372696,
+      "sha256": "68266240ab598bd484502cba80bded2533dcdf86cc839d59de06cc3335167764"
+    },
+    "Data/training/residual/scope_13/residual_ensemble.npz": {
+      "bytes": 1374482,
+      "sha256": "8529e4de5731316376e3427d0e5a947e881662a4790aeb2e32aae801ca7e95fc"
+    },
+    "Data/training/residual/scope_13/temporal_ensemble.npz": {
+      "bytes": 1368438,
+      "sha256": "b5474cc19bf0383d386b9d562a57041061d3bf3ed2f9abad61628c1c3c6f1c6a"
+    },
+    "Data/training/residual/scope_14/residual_ensemble.npz": {
+      "bytes": 1375048,
+      "sha256": "4e1847f7bffcc4256f010953f7083394941428e5edeafd3aeac7fb2a1016012e"
+    },
+    "Data/training/residual/scope_14/temporal_ensemble.npz": {
+      "bytes": 1370413,
+      "sha256": "df654c46800be21e120f51dd3657b94900667f61ff6b912c390b7c261071649e"
+    },
+    "Data/training/residual/scope_15/residual_ensemble.npz": {
+      "bytes": 1375836,
+      "sha256": "2c812926080441c58d180e1d8547d6c1179aa772886d541127f9e27a0192898e"
+    },
+    "Data/training/residual/scope_15/temporal_ensemble.npz": {
+      "bytes": 1370735,
+      "sha256": "a2e035d058bd9b740741071365bb1b6c3b68c3e7aaeef1af98c9cdf4814bd96d"
+    },
+    "Data/training/residual/scope_16/residual_ensemble.npz": {
+      "bytes": 1374879,
+      "sha256": "34c20a48bcf6a91af694e39c47107b819f2dd4d96a7f37b53b2b0756c4c43551"
+    },
+    "Data/training/residual/scope_16/temporal_ensemble.npz": {
+      "bytes": 1370020,
+      "sha256": "7885e96eb4c819f3979da368f736dc5cacb1a425f025b2c18ada815bc73d2695"
+    },
+    "Data/training/residual/scope_17/residual_ensemble.npz": {
+      "bytes": 1374832,
+      "sha256": "955b167d42da8729b216629a000feb3742d97621c77fe394dba8031262405fc4"
+    },
+    "Data/training/residual/scope_17/temporal_ensemble.npz": {
+      "bytes": 1372996,
+      "sha256": "9d1afa8d888f822e33e7c8dbfd037ecfe941160a0dd55505fcc09ca278e3d800"
+    },
+    "Data/training/residual/scope_18/residual_ensemble.npz": {
+      "bytes": 1375357,
+      "sha256": "5169731f36f93905679eb21bdbd8253c8f0960cbb51c32b5c26de4485590916a"
+    },
+    "Data/training/residual/scope_18/temporal_ensemble.npz": {
+      "bytes": 1371330,
+      "sha256": "94883ef8dd9f81be617c655aa0b46a9d5ae492bc9bbb49b13b703ab750f491e4"
+    },
+    "Data/training/residual/scope_19/residual_ensemble.npz": {
+      "bytes": 1375044,
+      "sha256": "8a39dfd752201ec5ee26d34a95cc5d9053bbe11355b4f1c597124af3e12a8d2b"
+    },
+    "Data/training/residual/scope_19/temporal_ensemble.npz": {
+      "bytes": 1370920,
+      "sha256": "9804e32593f5565326fca36c259d9de685261f223e98f5ef3b9af295d07005a2"
+    },
+    "Data/training/residual/scope_20/residual_ensemble.npz": {
+      "bytes": 1375252,
+      "sha256": "96e4b6a139daf68a94b9fa4598b3fa4f37e53e2c9961ee0d21617f1fea52ab0e"
+    },
+    "Data/training/residual/scope_20/temporal_ensemble.npz": {
+      "bytes": 1370171,
+      "sha256": "ba71e2deafcc4eedc8079f4dda824e17a5ef48562c0d16d920513cab2daacbd4"
+    },
+    "Data/training/residual/scope_21/residual_ensemble.npz": {
+      "bytes": 1375159,
+      "sha256": "59d87c8120779217f018d5dadbdf552516dacf31ddcfc679c2ceda9e17a050e4"
+    },
+    "Data/training/residual/scope_21/temporal_ensemble.npz": {
+      "bytes": 1370142,
+      "sha256": "188334e3f3063335f4a22b2f7fffba049974b01c9c03e5a9537681e20a87af3d"
+    },
+    "Data/training/residual/scope_22/residual_ensemble.npz": {
+      "bytes": 1374904,
+      "sha256": "31695993f6cf3dd70618f1235a7a4589a130a7d1ca265c57008f4cb27b1e13a3"
+    },
+    "Data/training/residual/scope_22/temporal_ensemble.npz": {
+      "bytes": 1370003,
+      "sha256": "8befeb2f496d714ddb31a48233358d58d7e49ef424a74b21d131fba2bfe03fe7"
+    },
+    "Data/training/residual/scope_23/residual_ensemble.npz": {
+      "bytes": 1437816,
+      "sha256": "a6e32de776674d042f68c89e1f165e0bc28f73653368dc6cbf8d615beccdd819"
+    },
+    "Data/training/residual/scope_23/temporal_ensemble.npz": {
+      "bytes": 1432793,
+      "sha256": "0deb42a59c1ac8d3e4fff8f484a227d50ab407f3bf03416a8d523d503dfdec99"
+    },
+    "Data/training/residual/shared/boundary.npz": {
+      "bytes": 1984766,
+      "sha256": "948319af10d1772aff187d807cbf1f6798043d41ab338afa1ee0c567bd404ae8"
+    },
+    "Data/training/residual/shared/expert.npz": {
+      "bytes": 1544568,
+      "sha256": "f39a1764289ba89854454cfecf1ae46a3c28af04102e65dfb5e19c6017e2ca2c"
+    },
+    "Data/training/residual/shared/global.npz": {
+      "bytes": 2059131,
+      "sha256": "f8958efb42bbda82566b0ba154d1c2210670aede92ddb6ef75e8df7aa1775905"
+    },
+    "Data/training/residual/shared/low_flow.npz": {
+      "bytes": 1598206,
+      "sha256": "83fcc29a5a32db5a155acd45600608abc0802a0956cd2e067653fbb6cca9ac38"
+    },
+    "Data/training/residual/shared/multiwindow.npz": {
+      "bytes": 10589447,
+      "sha256": "401944b15f3814f1d3518b38178dbb1e1fab145d23a1514b014ac1a972a5aeac"
+    },
+    "Data/training/residual/shared/pooled.npz": {
+      "bytes": 7012267,
+      "sha256": "758ea49fca29d279733d9e0c1731ac2373c34d24e7bc5cf84d0d84c9558a2dca"
+    },
+    "Data/training/residual/shared/teacher.npz": {
+      "bytes": 555583,
+      "sha256": "c02c73afa953d8d0673a89f809d288a6b0606215bf07048a1330653c3fbc7ee0"
+    },
+    "Data/training/routing.npz": {
+      "bytes": 6636,
+      "sha256": "431b3e8a279f7f521b606aa2566f1b3d358bee2e1e211bfbbb69337d7e968303"
+    },
+    "Data/training/experts/target/foundation.npz": {
+      "bytes": 574583,
+      "sha256": "ff845dce2ea3fb18762c01d6ae9712e75d209fab025b5d416528cccec750b4e4"
+    }
+  }
+}

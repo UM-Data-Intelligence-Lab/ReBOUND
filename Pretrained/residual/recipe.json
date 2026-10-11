@@ -1,0 +1,71 @@
+{
+  "layers": [
+    {
+      "stage": "constant_modes",
+      "basis": "U4",
+      "config": {
+        "name": "learned_constant_ridge0_shrink0.5",
+        "kind": "constant",
+        "basis": "learned",
+        "ridge": 0.0,
+        "shrink": 0.5
+      }
+    },
+    {
+      "stage": "temporal_modes",
+      "basis": "U4",
+      "config": {
+        "name": "learned_temporal_len3_noise0.1_shrink0.5",
+        "kind": "temporal",
+        "basis": "learned",
+        "length": 3.0,
+        "noise": 0.1,
+        "shrink": 0.5
+      }
+    },
+    {
+      "stage": "extra_modes",
+      "basis": "U8",
+      "config": {
+        "name": "learned_extra_rank8_shrink1",
+        "kind": "extra_constant",
+        "basis": "learned",
+        "rank": 8,
+        "shrink": 1.0
+      }
+    },
+    {
+      "stage": "random_complement_modes",
+      "basis": "random_complement",
+      "config": {
+        "name": "random_temporal_shrink0.25",
+        "kind": "temporal",
+        "basis": "random",
+        "shrink": 0.25,
+        "length": 3.0,
+        "noise": 0.1
+      }
+    },
+    {
+      "stage": "random_modes",
+      "basis": "original_random",
+      "config": {
+        "name": "random_temporal_shrink0.25",
+        "basis": "random",
+        "kind": "temporal",
+        "shrink": 0.25,
+        "length": 3.0,
+        "noise": 0.1
+      }
+    }
+  ],
+  "crossfit": {
+    "name": "conditionalCF_constant_shrink0.25",
+    "source": "conditionalCF",
+    "kind": "constant",
+    "basis": "learned",
+    "shrink": 0.25,
+    "length": 3.0,
+    "noise": 0.1
+  }
+}

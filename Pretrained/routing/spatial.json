@@ -1,0 +1,194 @@
+[
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.0700631967394348,
+    "identity_objective": 0.07465570438926275,
+    "scope_excluded_date": 20240121
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07069910206352094,
+    "identity_objective": 0.07533623605809979,
+    "scope_excluded_date": 20240122
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.06989938660612027,
+    "identity_objective": 0.07445309106741682,
+    "scope_excluded_date": 20240125
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07087972137199734,
+    "identity_objective": 0.07561337555800822,
+    "scope_excluded_date": 20240126
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.0706043810810211,
+    "identity_objective": 0.07527351627033617,
+    "scope_excluded_date": 20240127
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07051085434262323,
+    "identity_objective": 0.07520979319068466,
+    "scope_excluded_date": 20240128
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07056424938103219,
+    "identity_objective": 0.07522478345293575,
+    "scope_excluded_date": 20240129
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07112392349122933,
+    "identity_objective": 0.07585972259407098,
+    "scope_excluded_date": 20240130
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07092821689663635,
+    "identity_objective": 0.07562222397341893,
+    "scope_excluded_date": 20240131
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07081859523245988,
+    "identity_objective": 0.07556588277312574,
+    "scope_excluded_date": 20240401
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.0707834285448565,
+    "identity_objective": 0.07552200184837804,
+    "scope_excluded_date": 20240402
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07016828510286276,
+    "identity_objective": 0.07484993966795524,
+    "scope_excluded_date": 20240403
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07076317413044475,
+    "identity_objective": 0.07551532908501958,
+    "scope_excluded_date": 20240404
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07078541833781739,
+    "identity_objective": 0.07550873029968078,
+    "scope_excluded_date": 20240405
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07055691379195923,
+    "identity_objective": 0.07529130784445547,
+    "scope_excluded_date": 20240406
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07100991856907621,
+    "identity_objective": 0.07576975710261163,
+    "scope_excluded_date": 20240407
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07054889514939491,
+    "identity_objective": 0.075230037698412,
+    "scope_excluded_date": 20240409
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.06991132924961034,
+    "identity_objective": 0.07463785793094305,
+    "scope_excluded_date": 20240410
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07099338737831205,
+    "identity_objective": 0.07575943893587384,
+    "scope_excluded_date": 20240411
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07066994131389402,
+    "identity_objective": 0.07539564679815446,
+    "scope_excluded_date": 20240412
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07042617680742629,
+    "identity_objective": 0.07512735428853629,
+    "scope_excluded_date": 20240413
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07025091775631119,
+    "identity_objective": 0.07497042414693135,
+    "scope_excluded_date": 20240414
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 22,
+    "trials": 7,
+    "fit_objective": 0.07059599325565086,
+    "identity_objective": 0.07533988466229675,
+    "scope_excluded_date": 20240415
+  },
+  {
+    "alpha": 0.1,
+    "fit_days": 23,
+    "trials": 7,
+    "fit_objective": 0.07081836759552294,
+    "identity_objective": 0.07544014837395328,
+    "scope_excluded_date": null
+  }
+]
